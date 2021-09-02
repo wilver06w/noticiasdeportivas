@@ -69,7 +69,7 @@ class _InicioBodyState extends State<InicioBody> {
                     fontWeight: FontWeight.w500,
                     fontSize: 10,
                   ),
-                ))
+                ),),
           ],
         ),
 
